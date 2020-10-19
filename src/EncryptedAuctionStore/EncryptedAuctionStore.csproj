@@ -9,11 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Migrations\20200728210043_DBGeneratedId.cs" />
-    <Compile Remove="Migrations\20200728210043_DBGeneratedId.Designer.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="LSHDotNet" Version="1.4.1-rc0001" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.HealthChecks" Version="2.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.6" />
