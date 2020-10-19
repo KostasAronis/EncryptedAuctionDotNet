@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "c388b9a1-e6e3-4733-a070-feeca5618816",
+    "Name": "FirstStore",
+    "ApiUrl": "http://localhost:5000"
+  },
+  {
+    "Id": "96fb9df1-3e8c-42e3-a3dd-7a0181555ec3",
+    "Name": "SecondStore",
+    "ApiUrl": "http://localhost:5001"
+  }
+]

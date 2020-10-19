@@ -1,0 +1,28 @@
+{
+  "Port": 5000,
+  "ConnectionStrings": {
+    "Db": "Server=store_1_db;port=3306;Database=AuctionStore_DB;Uid=kostas;Pwd=kostas01;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information",
+      "EncryptedAuctionStore.Middlewares.RequestLoggingMiddleware": "Debug"
+    }
+  },
+  "aggregatorUrl":"http://encryptedauctionaggregator:5050/",
+  "Store": {
+    "Id": "c388b9a1-e6e3-4733-a070-feeca5618816",
+    "Name": "FirstStore",
+    "ApiUrl": "http://localhost:5000"
+  },
+  "Kestrel": {
+    "Limits": {
+      "MaxConcurrentConnections": 100,
+      "MaxConcurrentUpgradedConnections": 100
+    },
+    "DisableStringReuse": true
+  },
+  "AllowedHosts": "*"
+}

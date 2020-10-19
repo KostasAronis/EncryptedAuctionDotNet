@@ -1,0 +1,22 @@
+{
+  "Port": 5050,
+  "ConnectionStrings": {
+    "Db": "Server=aggregatordb;port=3306;Database=AuctionAggregator_DB;Uid=kostas;Pwd=kostas01;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information",
+      "EncryptedAuctionStore.Middlewares.RequestLoggingMiddleware": "Debug"
+    }
+  },
+  "Kestrel": {
+    "Limits": {
+      "MaxConcurrentConnections": 100,
+      "MaxConcurrentUpgradedConnections": 100
+    },
+    "DisableStringReuse": true
+  },
+  "AllowedHosts": "*"
+}

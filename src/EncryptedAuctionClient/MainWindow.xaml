@@ -1,0 +1,115 @@
+﻿<Window x:Class="EncryptedAuctionClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EncryptedAuctionClient"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Loaded="Window_Loaded"
+        Title="Encrypted Auction Client" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <Frame Name="ParentFrame"/>
+        </DockPanel>
+        <materialDesign:Card Padding="32" Margin="16" Height="405">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock
+                    Grid.Row="0"
+                    Text="Product Search."
+                    Style="{DynamicResource MaterialDesignHeadline6TextBlock}"
+                    TextAlignment="Center"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"/>
+                <Separator
+                    Grid.Row="1"
+                    Style="{StaticResource MaterialDesignLightSeparator}" />
+                <TextBox
+                    x:Name="textBox"
+                    HorizontalAlignment="Stretch"
+                    Grid.Row="2"
+                    materialDesign:HintAssist.Hint="Enter search terms..."
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    VerticalAlignment="Center"
+                />
+
+                <Button
+                    Margin="15" Grid.Row="4"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    materialDesign:ButtonProgressAssist.Value="-1"
+                    materialDesign:ButtonProgressAssist.IsIndeterminate="True"
+                    x:Name="searchButton" Content="Search" HorizontalAlignment="Center" VerticalAlignment="Top" Click="Button_Click"/>
+
+                <Expander
+                    Grid.Row="3"
+                    HorizontalAlignment="Stretch"
+                    Header="Additional Options">
+                    <StackPanel
+                    Orientation="Vertical"
+                    TextBlock.Foreground="{DynamicResource MaterialDesignBody}"
+                    Margin="24,8,24,16">
+                        <Grid
+                            Grid.Row="3"
+                        >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="70*"/>
+                                <ColumnDefinition Width="30*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Margin="0 16 0 0"
+                                Grid.Column="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock
+                                    Grid.Column="0" 
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Center"
+                                    Text="Minimum Similarity: " />
+                                <Slider Grid.Column="1" x:Name="MinimumSimilaritySlider" Minimum="0.1" Maximum="1" Value="0.3"
+                                    IsSnapToTickEnabled="True" TickFrequency="0.05" VerticalAlignment="Center" />
+                                <TextBlock Text="{Binding ElementName=MinimumSimilaritySlider, Path=Value, StringFormat={}{0:F1}}"
+                                       Margin="10,0" Grid.Column="2" VerticalAlignment="Center" />
+                            </Grid>
+                            
+                            <Grid Margin="0 16 0 0"
+                                Grid.Column="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock
+                                    Grid.Column="0" 
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Center"
+                                    Text="Max Results: " />
+                                <TextBox
+                                    Grid.Column="1" 
+                                    Text="5"
+                                    x:Name="MaxResultsTextBox"
+                                    materialDesign:TransitionAssist.DisableTransitions="True"
+                                    PreviewTextInput="NumberValidationTextBox"
+                                />
+                            </Grid>
+                        </Grid>
+                    </StackPanel>
+                </Expander>
+            </Grid>
+        </materialDesign:Card>
+    </Grid>
+</Window>

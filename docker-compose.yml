@@ -1,0 +1,88 @@
+version: '3.4'
+
+services:
+  encryptedauctionaggregator:
+    image: encryptedauctionaggregator
+    build:
+      context: .
+      dockerfile: src/EncryptedAuctionAggregator/Dockerfile
+    environment:
+      - DBHOST=aggregatordb
+    ports:
+      - "5050:5050"
+    depends_on:
+      - "aggregatordb"
+    links:
+      - "aggregatordb"
+    volumes:
+      - ${PWD}/configs/aggregator.appsettings.json:/app/appsettings.json
+      - ${PWD}/configs/aggregator.seed.json:/app/seed.json
+
+  aggregatordb:
+    image: mysql:8
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_DATABASE: AuctionAggregator_DB
+      MYSQL_USER: kostas
+      MYSQL_PASSWORD: kostas01
+      MYSQL_ROOT_PASSWORD: root
+
+
+  store_1:
+    image: encryptedauctionstore
+    build:
+      context: .
+      dockerfile: src/EncryptedAuctionStore/Dockerfile
+    environment:
+      - DBHOST=store_1_db
+    ports:
+      - "5000:5000"
+    depends_on:
+      - "store_1_db"
+      - "encryptedauctionaggregator"
+    links:
+      - "store_1_db"
+      - "encryptedauctionaggregator"
+    volumes:
+      - ${PWD}/configs/store_1.appsettings.json:/app/appsettings.json
+      - ${PWD}/configs/store_1.seed.json:/app/seed.json
+
+  store_1_db:
+    image: mysql:8
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_DATABASE: AuctionStore_DB
+      MYSQL_USER: kostas
+      MYSQL_PASSWORD: kostas01
+      MYSQL_ROOT_PASSWORD: root
+
+  store_2:
+    image: encryptedauctionstore
+    build:
+      context: .
+      dockerfile: src/EncryptedAuctionStore/Dockerfile
+    environment:
+      - DBHOST=store_2_db
+    ports:
+      - "5001:5001"
+    depends_on:
+      - "store_2_db"
+      - "encryptedauctionaggregator"
+    links:
+      - "store_2_db"
+      - "encryptedauctionaggregator"
+    volumes:
+      - ${PWD}/configs/store_2.appsettings.json:/app/appsettings.json
+      - ${PWD}/configs/store_2.seed.json:/app/seed.json
+
+  store_2_db:
+    image: mysql:8
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_DATABASE: AuctionStore_DB
+      MYSQL_USER: kostas
+      MYSQL_PASSWORD: kostas01
+      MYSQL_ROOT_PASSWORD: root

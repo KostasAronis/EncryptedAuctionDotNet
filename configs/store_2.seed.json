@@ -1,0 +1,1922 @@
+[
+  {
+    "Id": "ff22523f-acdf-4fe5-a138-dbbc140eaa66",
+    "Brand": "Dell",
+    "Model": "S2719DGF",
+    "Price": 326.44,
+    "Description": "Dell S2719DGF",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "41f72c41-7733-4e2b-8cfd-aa45ab35f6a4",
+    "Brand": "Samsung",
+    "Model": "C24F390FHU",
+    "Price": 113.06,
+    "Description": "Samsung C24F390FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1f15881c-78ad-4ac0-8053-59e12ae07f09",
+    "Brand": "AOC",
+    "Model": "24G2U",
+    "Price": 182.07,
+    "Description": "AOC 24G2U",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "deb740fd-d889-4b2c-8e8a-9cdc56d97cd2",
+    "Brand": "Samsung",
+    "Model": "CJG50",
+    "Price": 281.15000000000003,
+    "Description": "Samsung CJG50",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f20ae000-72a1-43a0-bfd7-aa91c20ebda3",
+    "Brand": "AOC",
+    "Model": "C24G1",
+    "Price": 176.23,
+    "Description": "AOC C24G1",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f3987461-bf42-4147-ad37-6da280d4bf56",
+    "Brand": "LG",
+    "Model": "24GL600F-B",
+    "Price": 178.54,
+    "Description": "LG 24GL600F-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "8bd1ee4f-50a4-47a3-bb8c-10a7433383dd",
+    "Brand": "Dell",
+    "Model": "SE2719HR",
+    "Price": 154.32,
+    "Description": "Dell SE2719HR",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "5dc662ca-3321-415f-b090-de63653ab226",
+    "Brand": "Dell",
+    "Model": "P2219H",
+    "Price": 132.01999999999998,
+    "Description": "Dell P2219H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "23d9550f-f755-4957-a7c6-c9983be6ceb9",
+    "Brand": "AOC",
+    "Model": "G2590VXQ",
+    "Price": 131.38,
+    "Description": "AOC G2590VXQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b85971ba-7216-4535-b504-937ee727efd8",
+    "Brand": "LG",
+    "Model": "27UL500-W",
+    "Price": 278.46,
+    "Description": "LG 27UL500-W",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1a23f9f6-6356-4373-afce-fd58f34fae10",
+    "Brand": "LG",
+    "Model": "24TL510S-PZ",
+    "Price": 128.96,
+    "Description": "LG 24TL510S-PZ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "d8770c31-edbb-4c53-8561-b74982e55e2f",
+    "Brand": "Samsung",
+    "Model": "C27RG50",
+    "Price": 285.07,
+    "Description": "Samsung C27RG50",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "13a2f12c-7b77-492c-9aac-f686a9a49b9c",
+    "Brand": "AOC",
+    "Model": "C27G1",
+    "Price": 238.02,
+    "Description": "AOC C27G1",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "501b04b9-b157-42ab-b7e5-00ddccb6c071",
+    "Brand": "LG",
+    "Model": "29WL500-B",
+    "Price": 183.01000000000002,
+    "Description": "LG 29WL500-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b48bbca8-9144-4083-99b5-c63431b16e56",
+    "Brand": "LG",
+    "Model": "24MK600M-B",
+    "Price": 117.03999999999999,
+    "Description": "LG 24MK600M-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "4e38ab3b-1ca5-4481-82dd-3789efbe6163",
+    "Brand": "Asus",
+    "Model": "TUF Gaming VG27VQ",
+    "Price": 276.49,
+    "Description": "Asus TUF Gaming VG27VQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "8fc9a27f-27eb-4b81-a27d-fd2a04dde1ba",
+    "Brand": "AOC",
+    "Model": "G2790PX",
+    "Price": 262.38,
+    "Description": "AOC G2790PX",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "07434b26-8493-4af1-9f33-761caa457ff9",
+    "Brand": "AOC",
+    "Model": "CQ32G1",
+    "Price": 319.18,
+    "Description": "AOC CQ32G1",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "08d6c8e6-a250-43e6-99dc-4252388134f2",
+    "Brand": "AOC",
+    "Model": "C32G1",
+    "Price": 242.48,
+    "Description": "AOC C32G1",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "dc346b0a-2786-4918-9a66-67edbe6d08dc",
+    "Brand": "LG",
+    "Model": "32UK550-B",
+    "Price": 353.52000000000004,
+    "Description": "LG 32UK550-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "ce8593f9-3aa3-4464-bda7-7c6152d7ccc9",
+    "Brand": "AOC",
+    "Model": "CQ27G2U",
+    "Price": 292.31,
+    "Description": "AOC CQ27G2U",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "bd4e3e6e-de68-49e2-ad95-9591fd71cbc8",
+    "Brand": "LG",
+    "Model": "24MK400H-B",
+    "Price": 95.26,
+    "Description": "LG 24MK400H-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c71d1e93-18f8-4c30-a6dc-36f4ddebb657",
+    "Brand": "Dell",
+    "Model": "S3220DGF",
+    "Price": 369.34999999999997,
+    "Description": "Dell S3220DGF",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "8108fd00-ee2e-4ac4-9f6b-0cba99486598",
+    "Brand": "Samsung",
+    "Model": "UJ590",
+    "Price": 306.87,
+    "Description": "Samsung UJ590",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "29de4e61-d5fc-4bb9-a32c-c63d6ad216f6",
+    "Brand": "Viewsonic",
+    "Model": "VX2458-C-mhd",
+    "Price": 173.5,
+    "Description": "Viewsonic VX2458-C-mhd",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "4761e918-24ac-4340-a0b6-d5b3ff3ad236",
+    "Brand": "Samsung",
+    "Model": "C27F390FHU",
+    "Price": 138.89000000000001,
+    "Description": "Samsung C27F390FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "22703af3-63f7-4d3d-bd4e-ff471d78ef44",
+    "Brand": "AOC",
+    "Model": "Q3279VWFD8",
+    "Price": 207.25,
+    "Description": "AOC Q3279VWFD8",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b47140dc-b229-4a8b-a884-dc7f610cc728",
+    "Brand": "AOC",
+    "Model": "27V2Q",
+    "Price": 152.78,
+    "Description": "AOC 27V2Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "e03a40ff-2216-49f8-910b-088bb557a9a3",
+    "Brand": "Asus",
+    "Model": "VP249QGR",
+    "Price": 205.4,
+    "Description": "Asus VP249QGR",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "32945595-9824-471e-bbda-8b79e500bdb3",
+    "Brand": "AOC",
+    "Model": "24V2Q",
+    "Price": 119.31,
+    "Description": "AOC 24V2Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "e7020586-07e8-46c6-b67c-fab8cb7d3bfd",
+    "Brand": "Dell",
+    "Model": "UltraSharp U2719DC Black",
+    "Price": 409.13,
+    "Description": "Dell UltraSharp U2719DC Black",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "5b26c0b1-3128-4d2b-b37e-6f67da8bdf03",
+    "Brand": "Samsung",
+    "Model": "LS24D330HSX",
+    "Price": 113.12,
+    "Description": "Samsung LS24D330HSX",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c92fc41f-0667-437e-b957-60cfd14242dd",
+    "Brand": "Samsung",
+    "Model": "C24RG50",
+    "Price": 176.8,
+    "Description": "Samsung C24RG50",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "9928987e-bc84-422f-a54e-119a7f3d5596",
+    "Brand": "LG",
+    "Model": "24TL510V-PZ",
+    "Price": 98.18,
+    "Description": "LG 24TL510V-PZ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "ced09316-f606-45bf-bfee-b68a94a85407",
+    "Brand": "Dell",
+    "Model": "SE2419HR",
+    "Price": 126.94000000000001,
+    "Description": "Dell SE2419HR",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "6a0a7125-6816-49df-8b43-2b5dfe3b0762",
+    "Brand": "LG",
+    "Model": "22MK600M-B",
+    "Price": 103.32000000000001,
+    "Description": "LG 22MK600M-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1786d5b1-f301-4852-9efa-16b8821ac12e",
+    "Brand": "LG",
+    "Model": "28TL510S-PZ",
+    "Price": 150.52,
+    "Description": "LG 28TL510S-PZ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b8508ee9-7b5a-499f-b7de-c74019411556",
+    "Brand": "Dell",
+    "Model": "UltraSharp U2719D",
+    "Price": 352.79,
+    "Description": "Dell UltraSharp U2719D",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "ca78eb97-cc46-408b-96b9-e03b69b9dd99",
+    "Brand": "HP",
+    "Model": "EliteDisplay E273q Gray",
+    "Price": 303.68,
+    "Description": "HP EliteDisplay E273q Gray",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "a4c26b3b-6fb0-40c0-94a1-dd2e510adf24",
+    "Brand": "Philips",
+    "Model": "246E9QJAB",
+    "Price": 121.14999999999999,
+    "Description": "Philips 246E9QJAB",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "fbb01716-8c46-4069-9b9d-f43225596740",
+    "Brand": "Dell",
+    "Model": "P2319H",
+    "Price": 141.47,
+    "Description": "Dell P2319H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "2a1c3223-0a7b-4a30-b979-7096d3e3b2fe",
+    "Brand": "LG",
+    "Model": "20MK400H-B",
+    "Price": 71.45,
+    "Description": "LG 20MK400H-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "ea79585a-9f0c-4c39-a6af-c1b6f688ed67",
+    "Brand": "Samsung",
+    "Model": "C27F396FHU",
+    "Price": 158.81,
+    "Description": "Samsung C27F396FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "2d329b42-8b0a-443f-aef8-fb6054ba5fd0",
+    "Brand": "Dell",
+    "Model": "P2418HT",
+    "Price": 268.84999999999997,
+    "Description": "Dell P2418HT",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "00c5bf2a-937f-4fa1-8915-5d6c273212c8",
+    "Brand": "Dell",
+    "Model": "P2719H",
+    "Price": 206.64,
+    "Description": "Dell P2719H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "16e6ba49-6d68-4423-abf7-c2123994cf5a",
+    "Brand": "LG",
+    "Model": "27MK600M-B",
+    "Price": 144.31,
+    "Description": "LG 27MK600M-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c3539b7b-8dc6-4392-8e08-db25e24ef648",
+    "Brand": "Asus",
+    "Model": "TUF Gaming VG27WQ",
+    "Price": 393.37,
+    "Description": "Asus TUF Gaming VG27WQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "e13ae45d-2bd3-4621-aeda-09e15842987d",
+    "Brand": "Philips",
+    "Model": "248E9QHSB",
+    "Price": 121.82,
+    "Description": "Philips 248E9QHSB",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b91d8a44-bb65-4d19-9e80-ac1adebb5b92",
+    "Brand": "LG",
+    "Model": "27UL650-W",
+    "Price": 370.05,
+    "Description": "LG 27UL650-W",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "95532440-4bf5-4807-a29c-a9efd96dc2d9",
+    "Brand": "Samsung",
+    "Model": "S27F350FHU",
+    "Price": 141.63000000000002,
+    "Description": "Samsung S27F350FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "57b363ec-c1e9-493c-9a12-30e09b2d5cc4",
+    "Brand": "LG",
+    "Model": "28TL510V-PZ",
+    "Price": 122.92,
+    "Description": "LG 28TL510V-PZ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "37e223c2-141a-4d29-b865-560895e1fcee",
+    "Brand": "AOC",
+    "Model": "24G2U5",
+    "Price": 157.95,
+    "Description": "AOC 24G2U5",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b553ece4-536f-4e1d-8a94-1fd1abbeadb6",
+    "Brand": "AOC",
+    "Model": "AG241QX",
+    "Price": 298.46,
+    "Description": "AOC AG241QX",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c49962f7-3cf6-4e74-a736-924c1d242324",
+    "Brand": "MSI",
+    "Model": "Optix G27CQ4",
+    "Price": 344.1,
+    "Description": "MSI Optix G27CQ4",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "3bbe02ba-59a2-4405-b15e-ab906db2ab15",
+    "Brand": "AOC",
+    "Model": "G2460VQ6",
+    "Price": 123.92,
+    "Description": "AOC G2460VQ6",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "6413476a-472a-4bbf-a58a-200b03a7ba69",
+    "Brand": "LG",
+    "Model": "24MP59G-P",
+    "Price": 119.69999999999999,
+    "Description": "LG 24MP59G-P",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "d337efc7-c0cc-453f-9f99-a354de5443ce",
+    "Brand": "AOC",
+    "Model": "G2590PX",
+    "Price": 228.88,
+    "Description": "AOC G2590PX",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1a98bd1f-3cb3-4fad-b372-06c3ed0deea2",
+    "Brand": "LG",
+    "Model": "29UM69G-B",
+    "Price": 243.96,
+    "Description": "LG 29UM69G-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "992d959d-469d-412b-93be-e2f6e9cee520",
+    "Brand": "AOC",
+    "Model": "G2590FX",
+    "Price": 212.35000000000002,
+    "Description": "AOC G2590FX",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "9eef8877-d02f-465a-ba4b-dcda53869243",
+    "Brand": "Samsung",
+    "Model": "S27H850QFU",
+    "Price": 290.15999999999997,
+    "Description": "Samsung S27H850QFU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b0c1430f-b900-4966-8d4c-9a10d27387fc",
+    "Brand": "Dell",
+    "Model": "SE2219H",
+    "Price": 104.7,
+    "Description": "Dell SE2219H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "32733c7c-fdba-430a-aeb9-89310bf3b2ac",
+    "Brand": "Samsung",
+    "Model": "LS24R350FHUXEN",
+    "Price": 113.88000000000001,
+    "Description": "Samsung LS24R350FHUXEN",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "3ee1cdab-dbf1-4791-bf73-c50958337812",
+    "Brand": "MSI",
+    "Model": "Optix MAG271CQR",
+    "Price": 600.17,
+    "Description": "MSI Optix MAG271CQR",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f6c607f7-4c6a-4c6d-9ff2-7647dea0b1e3",
+    "Brand": "Dell",
+    "Model": "P2419H",
+    "Price": 152.2,
+    "Description": "Dell P2419H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "233a6767-8582-4cb7-b278-9ea266fa4ac1",
+    "Brand": "LG",
+    "Model": "27GL850-B",
+    "Price": 491.79,
+    "Description": "LG 27GL850-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "142aec2e-cfc9-4ad0-9c10-45a2d3f79628",
+    "Brand": "MSI",
+    "Model": "Optix MAG241C",
+    "Price": 256.28,
+    "Description": "MSI Optix MAG241C",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "0ab75301-7591-4f6e-be4e-29848d120b59",
+    "Brand": "Samsung",
+    "Model": "C24F396FHU",
+    "Price": 123.21,
+    "Description": "Samsung C24F396FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f280c74c-fbc7-4237-987d-484ef5ebed27",
+    "Brand": "Samsung",
+    "Model": "S27E330HZX",
+    "Price": 133.89,
+    "Description": "Samsung S27E330HZX",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "a4d7572c-4249-41b9-a6b9-ada03fb5fe24",
+    "Brand": "Dell",
+    "Model": "UltraSharp U2412M Black",
+    "Price": 141.02999999999997,
+    "Description": "Dell UltraSharp U2412M Black",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f2271321-a250-4266-ba3f-e430b56d61b8",
+    "Brand": "Dell",
+    "Model": "U2419H",
+    "Price": 176.43,
+    "Description": "Dell U2419H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "6ec14b36-d2dd-471e-90bd-09cf741b7edb",
+    "Brand": "Samsung",
+    "Model": "LC32JG50QQU",
+    "Price": 301.43,
+    "Description": "Samsung LC32JG50QQU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "fd1e22ef-d784-49f3-9b75-b627be4bb5bf",
+    "Brand": "Zowie",
+    "Model": "XL2411P",
+    "Price": 205.43,
+    "Description": "Zowie XL2411P",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "a7d9a826-3aaa-4a14-b4f8-e4dfaf2499b8",
+    "Brand": "LG",
+    "Model": "27MK400H-B",
+    "Price": 125.01,
+    "Description": "LG 27MK400H-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f33cdd2e-73be-476b-bf82-3574e13ed286",
+    "Brand": "Asus",
+    "Model": "Rog Strix XG32VQ",
+    "Price": 496.8,
+    "Description": "Asus Rog Strix XG32VQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "67f6ccd8-f1ef-4977-b18b-1dfa3504d3be",
+    "Brand": "Dell",
+    "Model": "Ultrasharp U2520D",
+    "Price": 348.06,
+    "Description": "Dell Ultrasharp U2520D",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c03efd4b-8623-4704-8010-471cd04aab8d",
+    "Brand": "Viewsonic",
+    "Model": "VX2758-PC-MH",
+    "Price": 219.09,
+    "Description": "Viewsonic VX2758-PC-MH",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "7f5c8d39-54d4-44d3-93d4-a27d8de1ae7e",
+    "Brand": "LG",
+    "Model": "32MP58HQ",
+    "Price": 165.17000000000002,
+    "Description": "LG 32MP58HQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c07c2324-305a-4794-ac44-c122f0b3440c",
+    "Brand": "Dell",
+    "Model": "Alienware AW2518HF",
+    "Price": 445.33,
+    "Description": "Dell Alienware AW2518HF",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "6b38cf94-5ad3-4989-bd09-3237b2fec62d",
+    "Brand": "Philips",
+    "Model": "223V7QHAB",
+    "Price": 95.75,
+    "Description": "Philips 223V7QHAB",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "45a1419c-c901-4235-8d0f-b53c2ec40489",
+    "Brand": "Samsung",
+    "Model": "U32R590",
+    "Price": 365.1,
+    "Description": "Samsung U32R590",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c15dc577-f87d-497c-8a87-d8a0bdd50a16",
+    "Brand": "Asus",
+    "Model": "TUF Gaming VG32VQ",
+    "Price": 486.87,
+    "Description": "Asus TUF Gaming VG32VQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "a25154bd-7856-4e48-8337-c5c53dc8f0a1",
+    "Brand": "AOC",
+    "Model": "27G2U/BK",
+    "Price": 224.47,
+    "Description": "AOC 27G2U/BK",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "794605ee-82f2-447f-9f5c-e50a16024c39",
+    "Brand": "LG",
+    "Model": "27MK430H-B",
+    "Price": 129.72,
+    "Description": "LG 27MK430H-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "42c5d5a2-d3dc-4511-867e-dc6257ea697e",
+    "Brand": "AOC",
+    "Model": "G2778VQ",
+    "Price": 148.16,
+    "Description": "AOC G2778VQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "00fe79aa-cb12-4cd3-897f-53664ca7b1aa",
+    "Brand": "Viewsonic",
+    "Model": "Elite XG2405",
+    "Price": 234.71,
+    "Description": "Viewsonic Elite XG2405",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1208c4cf-4c3f-447b-a8fa-57062971838b",
+    "Brand": "LG",
+    "Model": "34GL750-B",
+    "Price": 440.39,
+    "Description": "LG 34GL750-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "a710b404-170c-4844-90ae-69c55408a57b",
+    "Brand": "Samsung",
+    "Model": "S22F350FHU",
+    "Price": 87.62,
+    "Description": "Samsung S22F350FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "49a1364e-9bb8-4356-82a7-c98458098c93",
+    "Brand": "AOC",
+    "Model": "U2879VF",
+    "Price": 239.8,
+    "Description": "AOC U2879VF",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f6a33c03-9056-4e7c-8d08-e9e5eb051fe2",
+    "Brand": "Dell",
+    "Model": "UltraSharp U2415",
+    "Price": 214.35999999999999,
+    "Description": "Dell UltraSharp U2415",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "4834cc3b-c2ef-40a7-8cfd-08bb89bad018",
+    "Brand": "MSI",
+    "Model": "Optix G27C4",
+    "Price": 238.95000000000002,
+    "Description": "MSI Optix G27C4",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "67ef8a31-3ebc-446c-9fac-ff4b4dc646ea",
+    "Brand": "Samsung",
+    "Model": "S24F356FHU",
+    "Price": 115.64,
+    "Description": "Samsung S24F356FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "5ac408e4-3a45-4187-80c7-0058932fd876",
+    "Brand": "LG",
+    "Model": "22MK400H-B",
+    "Price": 83.77000000000001,
+    "Description": "LG 22MK400H-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "e13780d0-6e3d-4868-ac1b-225e834a53e1",
+    "Brand": "Dell",
+    "Model": "UltraSharp U3419W",
+    "Price": 774.6,
+    "Description": "Dell UltraSharp U3419W",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "a24af963-ba4a-4b51-ad5a-6efebcb0d679",
+    "Brand": "LG",
+    "Model": "29WK600-W",
+    "Price": 251.14,
+    "Description": "LG 29WK600-W",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "e2d0ae45-8fbb-49c6-bc0d-8995a64f9224",
+    "Brand": "Dell",
+    "Model": "UltraSharp U2518D",
+    "Price": 298.46,
+    "Description": "Dell UltraSharp U2518D",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "d5306fa0-353b-4bf9-936b-f18d9c4757c8",
+    "Brand": "AOC",
+    "Model": "G2260VWQ6",
+    "Price": 87.18,
+    "Description": "AOC G2260VWQ6",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "290de307-a5e7-450f-a137-8626db3c0697",
+    "Brand": "Samsung",
+    "Model": "C32HG70",
+    "Price": 433.36,
+    "Description": "Samsung C32HG70",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "658f115e-9e21-4043-a8f3-0d09ba3142fe",
+    "Brand": "Samsung",
+    "Model": "S27R750Q",
+    "Price": 280.86,
+    "Description": "Samsung S27R750Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "9add61d8-a40e-4690-b377-571a23c218c1",
+    "Brand": "Asus",
+    "Model": "VG278QR",
+    "Price": 309.37,
+    "Description": "Asus VG278QR",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "50cfbe23-4d4a-456c-8a2a-3db3086a4b34",
+    "Brand": "Dell",
+    "Model": "P2418D",
+    "Price": 248.32,
+    "Description": "Dell P2418D",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "711c8e61-5087-4e46-bc88-1ff2d0d5077c",
+    "Brand": "LG",
+    "Model": "22MK430H-B",
+    "Price": 90.22,
+    "Description": "LG 22MK430H-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b676ed77-7d8c-46f4-a383-41fa20f29b2b",
+    "Brand": "Asus",
+    "Model": "VG248QG",
+    "Price": 241.73,
+    "Description": "Asus VG248QG",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "dd9f77d0-5fa9-474a-b478-e8d9a0bd1d89",
+    "Brand": "Asus",
+    "Model": "VZ249HE Black",
+    "Price": 116.19,
+    "Description": "Asus VZ249HE Black",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "30e5f0c4-572a-44b5-9fb8-923860508360",
+    "Brand": "Samsung",
+    "Model": "C43J890",
+    "Price": 782.87,
+    "Description": "Samsung C43J890",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "98636d29-9287-4a6a-8269-ee9f99d570fc",
+    "Brand": "Dell",
+    "Model": "SE2416H",
+    "Price": 109.16,
+    "Description": "Dell SE2416H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "eab19f38-fa09-4ca9-b57a-e1f166b2379c",
+    "Brand": "Zowie",
+    "Model": "XL2546",
+    "Price": 493.07,
+    "Description": "Zowie XL2546",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "ec072bb6-708b-4a54-a714-09d47bcfa8a9",
+    "Brand": "Dell",
+    "Model": "SE2717H",
+    "Price": 161.32,
+    "Description": "Dell SE2717H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "38c8c0c2-a964-4ee2-b564-fccb4bfc7d8d",
+    "Brand": "Dell",
+    "Model": "Alienware AW3420DW",
+    "Price": 1087.46,
+    "Description": "Dell Alienware AW3420DW",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "fc7c6ac7-2013-43da-b580-bd2d51a7b47c",
+    "Brand": "Asus",
+    "Model": "MG248QR",
+    "Price": 240.01,
+    "Description": "Asus MG248QR",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c39fc861-d811-45f0-bcd8-d68f0d0fed93",
+    "Brand": "Dell",
+    "Model": "Alienware AW2518H",
+    "Price": 406.31,
+    "Description": "Dell Alienware AW2518H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "e7e43e21-c22e-4672-aea3-77fc95ecc139",
+    "Brand": "Viewsonic",
+    "Model": "VX2758-2KP-mhd",
+    "Price": 365.32,
+    "Description": "Viewsonic VX2758-2KP-mhd",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "cd7347e9-5b98-47a4-9bd8-5b407e344189",
+    "Brand": "LG",
+    "Model": "29WK500-P",
+    "Price": 269.57,
+    "Description": "LG 29WK500-P",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "5b5f6d9a-0234-491f-9b3e-a719f40a7006",
+    "Brand": "Dell",
+    "Model": "E2420H",
+    "Price": 102.99000000000001,
+    "Description": "Dell E2420H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "d6c82025-da16-4377-a067-0834d508e258",
+    "Brand": "Asus",
+    "Model": "Designo Curve MX34VQ",
+    "Price": 688.61,
+    "Description": "Asus Designo Curve MX34VQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "4c6f64c8-d6d2-4f36-a31f-05054df8ba8d",
+    "Brand": "Samsung",
+    "Model": "UR55",
+    "Price": 321.35999999999996,
+    "Description": "Samsung UR55",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c1d3a236-147c-4fe1-92e1-c15ec9d71a65",
+    "Brand": "HP",
+    "Model": "24f",
+    "Price": 132.33,
+    "Description": "HP 24f",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "272de67a-5cc4-42ae-aeda-09712de3f50d",
+    "Brand": "Dell",
+    "Model": "P2421D",
+    "Price": 236.54,
+    "Description": "Dell P2421D",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f075b419-95ef-4e8b-86a5-fe44095ef16e",
+    "Brand": "Dell",
+    "Model": "P4317Q",
+    "Price": 657.55,
+    "Description": "Dell P4317Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "5de21e74-29b5-49b9-acaf-092e4508b1cd",
+    "Brand": "LG",
+    "Model": "24GL650-B",
+    "Price": 190.94,
+    "Description": "LG 24GL650-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "dfe6477d-793d-4853-86a0-0382a855e59e",
+    "Brand": "Samsung",
+    "Model": "S22R350FHU",
+    "Price": 96.32,
+    "Description": "Samsung S22R350FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "534a0301-49a3-4426-8976-712529e28623",
+    "Brand": "LG",
+    "Model": "34WK650-W",
+    "Price": 319.03,
+    "Description": "LG 34WK650-W",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "95e80660-46ca-48f2-abb5-06ea2bccfdb4",
+    "Brand": "LG",
+    "Model": "24MK430H-B",
+    "Price": 105.19,
+    "Description": "LG 24MK430H-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "369aaefd-8e97-4a1a-a740-a66110147ab2",
+    "Brand": "HP",
+    "Model": "25x",
+    "Price": 242.88,
+    "Description": "HP 25x",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "835e2d18-ae4b-4e94-a000-b51b9c5b7c46",
+    "Brand": "HP",
+    "Model": "P24h G4",
+    "Price": 115.5,
+    "Description": "HP P24h G4",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "e01b3bf0-739e-4893-9659-dbac004407c0",
+    "Brand": "Dell",
+    "Model": "Ultrasharp U2720Q",
+    "Price": 579.5699999999999,
+    "Description": "Dell Ultrasharp U2720Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "38a4a2ea-26fd-49c5-82a4-4f5610618da6",
+    "Brand": "Acer",
+    "Model": "Nitro VG270UP",
+    "Price": 444.90000000000003,
+    "Description": "Acer Nitro VG270UP",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "a0e82ec5-7473-4a7a-a729-db40b3336316",
+    "Brand": "LG",
+    "Model": "25UM58-P",
+    "Price": 152.26,
+    "Description": "LG 25UM58-P",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "94ab69fc-e6a8-4748-a7bb-32daf7fc080c",
+    "Brand": "LG",
+    "Model": "32ML600M-B",
+    "Price": 190.09,
+    "Description": "LG 32ML600M-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "cef120fe-582c-459f-875b-8ff39b0a6c13",
+    "Brand": "Dell",
+    "Model": "Alienware AW3418DW",
+    "Price": 747.34,
+    "Description": "Dell Alienware AW3418DW",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "560f802f-66bb-4d6a-a7f1-c2e6c4f79081",
+    "Brand": "Zowie",
+    "Model": "Rl2455",
+    "Price": 206.59,
+    "Description": "Zowie Rl2455",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "022f0b00-6b6d-4e0b-a75b-589cbe8106f6",
+    "Brand": "AOC",
+    "Model": "Q27G2U",
+    "Price": 278.04999999999995,
+    "Description": "AOC Q27G2U",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "0e4d120a-f515-4bb2-b2dd-e4786b170e4d",
+    "Brand": "Viewsonic",
+    "Model": "XG2402",
+    "Price": 274.25,
+    "Description": "Viewsonic XG2402",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "96185a4b-521e-4882-b76e-2cd7bc067285",
+    "Brand": "Philips",
+    "Model": "243V7QDAB",
+    "Price": 110.11,
+    "Description": "Philips 243V7QDAB",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "43c5a8a9-d53b-42be-ac1f-ab9ccdae0a17",
+    "Brand": "AOC",
+    "Model": "e970Swn",
+    "Price": 61.12,
+    "Description": "AOC e970Swn",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f7269843-9fb7-4756-9492-eb9cdc2680d0",
+    "Brand": "Samsung",
+    "Model": "U32H850",
+    "Price": 382.62,
+    "Description": "Samsung U32H850",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "8635864d-a0f0-4b88-981a-e6b9f36e07e1",
+    "Brand": "Gigabyte",
+    "Model": "Aorus FI27Q",
+    "Price": 597.11,
+    "Description": "Gigabyte Aorus FI27Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f78e00b4-1626-429a-95e4-5828fdda5c89",
+    "Brand": "AOC",
+    "Model": "C27G2ZU/BK",
+    "Price": 291.14,
+    "Description": "AOC C27G2ZU/BK",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "947156d4-0524-413d-b6ec-43c68b21508e",
+    "Brand": "Asus",
+    "Model": "Rog Swift PG348Q",
+    "Price": 739.22,
+    "Description": "Asus Rog Swift PG348Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "49248a6f-13ae-49e6-9de1-7864295f0fc5",
+    "Brand": "Samsung",
+    "Model": "27CHG70",
+    "Price": 418.7,
+    "Description": "Samsung 27CHG70",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "97d58736-c482-4a3a-981c-273d748543fb",
+    "Brand": "Dell",
+    "Model": "P2419HC",
+    "Price": 188.68,
+    "Description": "Dell P2419HC",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "17f7ca89-7ac3-448f-9985-03da220b16ad",
+    "Brand": "Philips",
+    "Model": "276E9QDSB",
+    "Price": 146.57000000000002,
+    "Description": "Philips 276E9QDSB",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "64412646-caba-4975-8a70-f9758868cbe7",
+    "Brand": "LG",
+    "Model": "34UC79G-B",
+    "Price": 515.58,
+    "Description": "LG 34UC79G-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "208063e8-3f1f-4f37-ad79-582f2fa502aa",
+    "Brand": "LG",
+    "Model": "29UC88",
+    "Price": 397.44,
+    "Description": "LG 29UC88",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b41417ad-7015-4219-87df-1acc5584c53f",
+    "Brand": "Samsung",
+    "Model": "C34H890",
+    "Price": 567.51,
+    "Description": "Samsung C34H890",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1e783e0c-5db2-4adf-acc0-a3e5be0859d4",
+    "Brand": "LG",
+    "Model": "24TL510V-WZ",
+    "Price": 111.03999999999999,
+    "Description": "LG 24TL510V-WZ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f6433dcc-36ba-4eda-8818-fd7ec34bf570",
+    "Brand": "Gigabyte",
+    "Model": "Aorus CV27Q",
+    "Price": 499.27,
+    "Description": "Gigabyte Aorus CV27Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "75c22072-f23f-463c-814a-06911c54cc29",
+    "Brand": "Samsung",
+    "Model": "C27F591FDU",
+    "Price": 207.24,
+    "Description": "Samsung C27F591FDU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "88dee362-a961-4df7-9f76-bbc13ad2832d",
+    "Brand": "Samsung",
+    "Model": "C27FG73",
+    "Price": 300.1,
+    "Description": "Samsung C27FG73",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "204e7e62-bf4a-4c95-84d2-cbef0ce21e57",
+    "Brand": "Samsung",
+    "Model": "S27R350FHU",
+    "Price": 137.12,
+    "Description": "Samsung S27R350FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "648f1423-8e08-4671-9d0c-36f936d17637",
+    "Brand": "Dell",
+    "Model": "P2720D",
+    "Price": 298.03,
+    "Description": "Dell P2720D",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "27a250e2-1823-43b8-b38e-384cfc4addf1",
+    "Brand": "HP",
+    "Model": "27fw",
+    "Price": 182.95,
+    "Description": "HP 27fw",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "52bc8d81-dc93-4cc6-be20-c702c31009f7",
+    "Brand": "Dell",
+    "Model": "P2720DC",
+    "Price": 312.09,
+    "Description": "Dell P2720DC",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "84ed17af-8855-4f11-b935-4168bb76be61",
+    "Brand": "AOC",
+    "Model": "I2481FXH",
+    "Price": 136.54,
+    "Description": "AOC I2481FXH",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "40c0e599-e21b-44bf-ac1b-44e5b8bd2015",
+    "Brand": "LG",
+    "Model": "27MP59G-P",
+    "Price": 161.64,
+    "Description": "LG 27MP59G-P",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b36fb98b-bf25-43b6-be5a-8a06fffa669a",
+    "Brand": "Asus",
+    "Model": "Rog Strix XG27VQ",
+    "Price": 374.95,
+    "Description": "Asus Rog Strix XG27VQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "67fd3b38-d861-42c0-9576-03d5b978e9ec",
+    "Brand": "Samsung",
+    "Model": "LS24E65UPL",
+    "Price": 134.8,
+    "Description": "Samsung LS24E65UPL",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "ec8e823c-d067-4b2f-aba1-bdb4dce9f80f",
+    "Brand": "Viewsonic",
+    "Model": "VA2419-SH",
+    "Price": 112.73,
+    "Description": "Viewsonic VA2419-SH",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "bd3b19fa-5e2e-40d0-94a1-da0fdfb5204b",
+    "Brand": "AOC",
+    "Model": "CU34G2X",
+    "Price": 527.4,
+    "Description": "AOC CU34G2X",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "700a5fa4-1a33-4b0c-8186-fb5872be32de",
+    "Brand": "MSI",
+    "Model": "Optix MAG241CV",
+    "Price": 231.32,
+    "Description": "MSI Optix MAG241CV",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "42d53627-c2b8-4a9b-a19d-eacac58e47d9",
+    "Brand": "HP",
+    "Model": "24w",
+    "Price": 101.07,
+    "Description": "HP 24w",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "0ac65b07-f724-454b-b11c-155997479d76",
+    "Brand": "AOC",
+    "Model": "E2470SWH",
+    "Price": 106.74,
+    "Description": "AOC E2470SWH",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "40a12a1d-f621-4b0c-9bbd-3878ded2d851",
+    "Brand": "Eizo",
+    "Model": "EV2450 Black",
+    "Price": 275.58,
+    "Description": "Eizo EV2450 Black",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "40942fca-0399-4179-b685-f3a6e2463d17",
+    "Brand": "Philips",
+    "Model": "243V7QDSB",
+    "Price": 108.04,
+    "Description": "Philips 243V7QDSB",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "5177ccc8-3726-4f38-a513-d3a74ef6796c",
+    "Brand": "AOC",
+    "Model": "AG241QG",
+    "Price": 435.11,
+    "Description": "AOC AG241QG",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "4b1586d7-b81e-428b-ad94-686ed5368fb7",
+    "Brand": "HP",
+    "Model": "EliteDisplay E243",
+    "Price": 149.09,
+    "Description": "HP EliteDisplay E243",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "354e3846-d454-417a-829f-7397c6fb1112",
+    "Brand": "Samsung",
+    "Model": "S24F350FHU",
+    "Price": 106.36,
+    "Description": "Samsung S24F350FHU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "bc8c2c66-41d2-4cb7-91f7-bbbd01c4fd13",
+    "Brand": "Dell",
+    "Model": "P2417H",
+    "Price": 248.54999999999998,
+    "Description": "Dell P2417H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "d899fbe8-fec2-4f07-9c50-536d5a48afcc",
+    "Brand": "Asus",
+    "Model": "ROG Swift PG27VQ",
+    "Price": 796.59,
+    "Description": "Asus ROG Swift PG27VQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "987002f6-0bfa-4d4a-9bdc-13b52fd45086",
+    "Brand": "Dell",
+    "Model": "S2719H",
+    "Price": 208.98,
+    "Description": "Dell S2719H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "7b18e407-a50c-4c0c-b804-73f0ef6bcee7",
+    "Brand": "LG",
+    "Model": "27UL600-W",
+    "Price": 335.78999999999996,
+    "Description": "LG 27UL600-W",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "dba12e4f-a60a-4c67-a045-00db1b2bcce5",
+    "Brand": "Dell",
+    "Model": "P2421DC",
+    "Price": 284.39,
+    "Description": "Dell P2421DC",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b6179cc8-a270-4caa-b28f-15484fbe2bcd",
+    "Brand": "AOC",
+    "Model": "27G2U5",
+    "Price": 181.34,
+    "Description": "AOC 27G2U5",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "87a999d1-1465-45e9-a90d-a98ca84edd8d",
+    "Brand": "LG",
+    "Model": "34UM69G-B",
+    "Price": 317.13,
+    "Description": "LG 34UM69G-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "0549558f-24e8-4fbf-9fb0-3701e9ecf467",
+    "Brand": "Dell",
+    "Model": "UltraSharp UP3216Q",
+    "Price": 1089.6000000000001,
+    "Description": "Dell UltraSharp UP3216Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f68d63d1-aa3f-423e-8967-c8f65661b3f8",
+    "Brand": "AOC",
+    "Model": "Q3279VWF",
+    "Price": 179.07999999999998,
+    "Description": "AOC Q3279VWF",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "7cc64664-0ad4-4217-8e77-6503dcf756cb",
+    "Brand": "Dell",
+    "Model": "P2719HC",
+    "Price": 229.71,
+    "Description": "Dell P2719HC",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "62eb412d-3377-4cab-8260-e323216df02a",
+    "Brand": "LG",
+    "Model": "28TL510V-WZ",
+    "Price": 112.61,
+    "Description": "LG 28TL510V-WZ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "a187b8f3-9798-4625-9292-9bdd617ce2f2",
+    "Brand": "LG",
+    "Model": "27UD58",
+    "Price": 470.67,
+    "Description": "LG 27UD58",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "94858f7f-df40-4abb-b642-3268d28f076d",
+    "Brand": "Viewsonic",
+    "Model": "VA2719-SH",
+    "Price": 150.44,
+    "Description": "Viewsonic VA2719-SH",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c26b4f9a-9819-4ff2-8954-c49924b8fe64",
+    "Brand": "Dell",
+    "Model": "UltraSharp U3219Q",
+    "Price": 790.27,
+    "Description": "Dell UltraSharp U3219Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "d89ccb12-ff3d-46e2-a543-30a107cb1a26",
+    "Brand": "Dell",
+    "Model": "Alienware AW2521HF",
+    "Price": 387.85,
+    "Description": "Dell Alienware AW2521HF",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "4e7cb61e-625d-4575-b804-a0cb0d397461",
+    "Brand": "Acer",
+    "Model": "Nitro VG240Y",
+    "Price": 139.56,
+    "Description": "Acer Nitro VG240Y",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c4c4cc05-66da-47ca-a661-3957e35865f8",
+    "Brand": "Asus",
+    "Model": "VG245HE",
+    "Price": 172.43,
+    "Description": "Asus VG245HE",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "798e956e-786f-4401-8b8a-d167bdc84f02",
+    "Brand": "BenQ",
+    "Model": "GW2280",
+    "Price": 91.57,
+    "Description": "BenQ GW2280",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "d5a0b013-9a64-4f98-b525-4a6f15d820bc",
+    "Brand": "Samsung",
+    "Model": "C24FG70",
+    "Price": 399.02,
+    "Description": "Samsung C24FG70",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "6bc9f5fc-da4a-46d6-bebf-e5c1fda5a105",
+    "Brand": "Acer",
+    "Model": "Nitro VG270",
+    "Price": 178.42000000000002,
+    "Description": "Acer Nitro VG270",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "97ffbc0e-1baf-4323-91dc-e11842f64804",
+    "Brand": "Samsung",
+    "Model": "LS34J550WQU",
+    "Price": 396.69,
+    "Description": "Samsung LS34J550WQU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "af98f699-4936-43a8-a4b2-0825740caa30",
+    "Brand": "Dell",
+    "Model": "E2418HN",
+    "Price": 130.0,
+    "Description": "Dell E2418HN",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "4564f904-2ada-4d28-8c14-fb6eba2183b0",
+    "Brand": "HP",
+    "Model": "EliteDisplay E273",
+    "Price": 171.64,
+    "Description": "HP EliteDisplay E273",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "2fc7a928-333c-42d1-9b05-5a7ec6b87032",
+    "Brand": "Turbo-X",
+    "Model": "Nemesis NC27QGH",
+    "Price": 318.8,
+    "Description": "Turbo-X Nemesis NC27QGH",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1e5af3f9-706d-4f35-bd06-ab8afe49a1a2",
+    "Brand": "Samsung",
+    "Model": "CR50",
+    "Price": 155.75,
+    "Description": "Samsung CR50",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "043eae3c-1b11-4e2f-95b9-be091bad42da",
+    "Brand": "Philips",
+    "Model": "E Line 276E9QJAB",
+    "Price": 154.96,
+    "Description": "Philips E Line 276E9QJAB",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "2f17f96e-a188-4e11-b708-9da540aedb80",
+    "Brand": "AOC",
+    "Model": "AGON AG272FCX6",
+    "Price": 303.54,
+    "Description": "AOC AGON AG272FCX6",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "c7f119d6-070c-47cd-980c-ccec7fab40cf",
+    "Brand": "Dell",
+    "Model": "Alienware AW2720HF",
+    "Price": 393.06,
+    "Description": "Dell Alienware AW2720HF",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "8bb964b4-3e46-4af8-bf51-0c563be0c80a",
+    "Brand": "Dell",
+    "Model": "SE2417HG",
+    "Price": 137.95000000000002,
+    "Description": "Dell SE2417HG",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "ee88c6aa-c69f-46e9-883e-09eeae98bdfb",
+    "Brand": "AOC",
+    "Model": "24E1Q",
+    "Price": 112.02000000000001,
+    "Description": "AOC 24E1Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "0b02b6ce-1c88-4055-af04-62a7a48390ed",
+    "Brand": "LG",
+    "Model": "24MT49S",
+    "Price": 176.81,
+    "Description": "LG 24MT49S",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "cc1a19a4-a411-4d57-9da6-2c36a5fd0dff",
+    "Brand": "Asus",
+    "Model": "VG278Q",
+    "Price": 291.63,
+    "Description": "Asus VG278Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "7cc624c8-fb06-4c09-9b8e-62c9bb3c9f6e",
+    "Brand": "MSI",
+    "Model": "Optix MAG271CV",
+    "Price": 302.48,
+    "Description": "MSI Optix MAG271CV",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "8025a6c8-a685-4dd9-82f3-1f1117eb85d3",
+    "Brand": "Philips",
+    "Model": "276C8",
+    "Price": 300.92,
+    "Description": "Philips 276C8",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "06110207-0f3c-45a5-8e9d-cfb7479aaf4f",
+    "Brand": "MSI",
+    "Model": "Optix G241VC",
+    "Price": 166.81,
+    "Description": "MSI Optix G241VC",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "2b50aff4-6df6-4d70-924d-f64f81d20bf5",
+    "Brand": "Asus",
+    "Model": "TUF Gaming VG27AQ",
+    "Price": 500.86,
+    "Description": "Asus TUF Gaming VG27AQ",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "40822894-c8ba-4c5e-bbcf-d89591882543",
+    "Brand": "BenQ",
+    "Model": "GC2870H",
+    "Price": 186.74,
+    "Description": "BenQ GC2870H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "17c4db60-e283-4b6a-9b89-6c3b7f11d85a",
+    "Brand": "Asus",
+    "Model": "VG245Q",
+    "Price": 186.11,
+    "Description": "Asus VG245Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "ec3dce89-c86d-4d41-b77b-3d2eb44bcc78",
+    "Brand": "HP",
+    "Model": "Omen X 27",
+    "Price": 860.11,
+    "Description": "HP Omen X 27",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "2c4132f7-52e6-487a-ad6a-2e631c8ce3ba",
+    "Brand": "LG",
+    "Model": "27GL63T-B",
+    "Price": 252.09,
+    "Description": "LG 27GL63T-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1397421e-9ba7-4312-bba1-7414a6a1564f",
+    "Brand": "Samsung",
+    "Model": "C49RG90SSU",
+    "Price": 1143.19,
+    "Description": "Samsung C49RG90SSU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "b389db39-9adb-4c98-9fe8-2eeb49693035",
+    "Brand": "Samsung",
+    "Model": "S24H850",
+    "Price": 249.61,
+    "Description": "Samsung S24H850",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "46a7b049-a5fe-425a-a205-8805e263cc5d",
+    "Brand": "Asus",
+    "Model": "Rog Swift PG258Q",
+    "Price": 561.3,
+    "Description": "Asus Rog Swift PG258Q",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "5029980c-1267-432d-8d46-266aefaa4704",
+    "Brand": "Philips",
+    "Model": "322E1C/00",
+    "Price": 197.57999999999998,
+    "Description": "Philips 322E1C/00",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "7edb8499-5fab-4188-8a79-3aa27074446a",
+    "Brand": "Dell",
+    "Model": "S2419H",
+    "Price": 159.20999999999998,
+    "Description": "Dell S2419H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "2740cb1e-8621-4e03-8aeb-de0421da73e7",
+    "Brand": "AOC",
+    "Model": "24P1",
+    "Price": 147.82000000000002,
+    "Description": "AOC 24P1",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "9ed650af-8171-4b1f-8e2d-8ad77755e28a",
+    "Brand": "Acer",
+    "Model": "B277",
+    "Price": 233.4,
+    "Description": "Acer B277",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "99fd3cb0-3a61-4b9b-9e7f-a5c46bdff749",
+    "Brand": "Asus",
+    "Model": "VP28UQG",
+    "Price": 275.28,
+    "Description": "Asus VP28UQG",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "6eebb6a1-29d0-4b71-bd8e-522e4766f00c",
+    "Brand": "Samsung",
+    "Model": "U28H750UQU",
+    "Price": 305.22999999999996,
+    "Description": "Samsung U28H750UQU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "ab31742d-7075-47be-8df5-d7d1087d7d88",
+    "Brand": "Samsung",
+    "Model": "C24FG73",
+    "Price": 288.65,
+    "Description": "Samsung C24FG73",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1f304612-9cdb-4dfc-a72b-eaf0c92cf3e1",
+    "Brand": "BenQ",
+    "Model": "EX3203R",
+    "Price": 478.78,
+    "Description": "BenQ EX3203R",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "e57e7955-913d-4ee3-ae17-eb23ff55e36f",
+    "Brand": "Dell",
+    "Model": "UltraSharp U3415W",
+    "Price": 674.27,
+    "Description": "Dell UltraSharp U3415W",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "1b5bfd1f-070c-4045-af46-355c224daf37",
+    "Brand": "Dell",
+    "Model": "U2717D",
+    "Price": 401.45,
+    "Description": "Dell U2717D",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "2fd4d7ca-f387-42b4-9ad7-0080fffdad75",
+    "Brand": "LG",
+    "Model": "38WK95C-W",
+    "Price": 969.06,
+    "Description": "LG 38WK95C-W",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "f9c85bf0-535c-44e1-8d0b-229ab89963f7",
+    "Brand": "Dell",
+    "Model": "UltraSharp U2417H",
+    "Price": 348.65999999999997,
+    "Description": "Dell UltraSharp U2417H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "97322a40-0dc2-417b-8db3-cf25ccbb689f",
+    "Brand": "Viewsonic",
+    "Model": "VX4380-4K",
+    "Price": 599.28,
+    "Description": "Viewsonic VX4380-4K",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "9279718c-87c9-4134-bcd9-4f66fa403484",
+    "Brand": "Samsung",
+    "Model": "C27H711",
+    "Price": 325.81,
+    "Description": "Samsung C27H711",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "4b41bf3b-e48a-4c36-a273-c14f5f1dddf0",
+    "Brand": "Acer",
+    "Model": "BE270UA",
+    "Price": 365.57,
+    "Description": "Acer BE270UA",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "959685f9-9e21-42fb-b848-4b7f5020e9dd",
+    "Brand": "Samsung",
+    "Model": "C32F391FWU",
+    "Price": 208.5,
+    "Description": "Samsung C32F391FWU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "668e71b8-6763-493f-a558-a701bd4a07cb",
+    "Brand": "Viewsonic",
+    "Model": "VX3258-2KPC-MHD",
+    "Price": 341.45,
+    "Description": "Viewsonic VX3258-2KPC-MHD",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "2004c23d-fb7f-4b37-b409-29fdcf832382",
+    "Brand": "Iiyama",
+    "Model": "G-Master G2530HSU-B1",
+    "Price": 139.53,
+    "Description": "Iiyama G-Master G2530HSU-B1",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "4b7637cb-05ef-4657-ba7c-6ccc3c0256b9",
+    "Brand": "MSI",
+    "Model": "Prestige PS341WU",
+    "Price": 1978.3700000000001,
+    "Description": "MSI Prestige PS341WU",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "3d0e617d-57e0-4824-bd8a-7dcec0bc7f61",
+    "Brand": "MSI",
+    "Model": "Optix G24C4",
+    "Price": 219.75,
+    "Description": "MSI Optix G24C4",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "369f6cb0-5af9-448f-8d6b-e2fb72583a9b",
+    "Brand": "Zowie",
+    "Model": "XL2740",
+    "Price": 580.59,
+    "Description": "Zowie XL2740",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "525ca69e-6a30-4e6d-a9aa-69867ab1fb7f",
+    "Brand": "Viewsonic",
+    "Model": "XG2705",
+    "Price": 294.09,
+    "Description": "Viewsonic XG2705",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "3a0379c3-749f-4f1a-b1fb-ee6054334703",
+    "Brand": "LG",
+    "Model": "32GK850G-B",
+    "Price": 739.18,
+    "Description": "LG 32GK850G-B",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "9f8febab-1929-4529-8ec7-0e83d0a4cc42",
+    "Brand": "Samsung",
+    "Model": "CHG90",
+    "Price": 768.94,
+    "Description": "Samsung CHG90",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "6c24287b-9fac-4a37-b52b-7a85d13e2e25",
+    "Brand": "Viewsonic",
+    "Model": "VX3276-2K-MHD",
+    "Price": 259.84,
+    "Description": "Viewsonic VX3276-2K-MHD",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "15445df2-8899-46a7-a76c-d376fdae347c",
+    "Brand": "Asus",
+    "Model": "VG248QE",
+    "Price": 195.05,
+    "Description": "Asus VG248QE",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "81377668-b39e-47e2-97b0-ececda7548c4",
+    "Brand": "Lenovo",
+    "Model": "ThinkVision S22e-19",
+    "Price": 101.57,
+    "Description": "Lenovo ThinkVision S22e-19",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "7060bba2-af4e-4797-98a2-11fbdf63a03f",
+    "Brand": "AOC",
+    "Model": "24B1H",
+    "Price": 98.38000000000001,
+    "Description": "AOC 24B1H",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "fe90496c-4bcc-4a4d-b6d4-14b91a07cfc1",
+    "Brand": "AOC",
+    "Model": "AG352QCX",
+    "Price": 510.94000000000005,
+    "Description": "AOC AG352QCX",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "118fb95b-2833-4869-90cc-6deaa47b2c37",
+    "Brand": "Asus",
+    "Model": "VA249HE",
+    "Price": 96.22,
+    "Description": "Asus VA249HE",
+    "Category": "Monitor"
+  },
+  {
+    "Id": "30128b5a-c178-4bbc-b756-59efcd009257",
+    "Brand": "Samsung",
+    "Model": "U28E590D",
+    "Price": 228.64,
+    "Description": "Samsung U28E590D",
+    "Category": "Monitor"
+  }
+]
