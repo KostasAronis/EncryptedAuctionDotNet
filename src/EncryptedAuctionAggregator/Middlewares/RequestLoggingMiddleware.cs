@@ -101,7 +101,7 @@ namespace EncryptedAuctionAggregator.Middlewares
                 $"{context.Request.Host}" +
                 $"{context.Request.Path}" +
                 $"{context.Request.QueryString}" +
-                (String.IsNullOrEmpty(text) ? "" : $"{Environment.NewLine}Request Body: {text}")
+                (String.IsNullOrEmpty(text) ? "" : $"{Environment.NewLine}Response Body: {text}")
             );
             if (!String.IsNullOrEmpty(text))
             {
@@ -109,11 +109,11 @@ namespace EncryptedAuctionAggregator.Middlewares
                 {
                     var parsedJson = JsonConvert.DeserializeObject(text);
                     var jsonStr = JsonConvert.SerializeObject(parsedJson, Formatting.Indented);
-                    _logger.LogDebug(String.IsNullOrEmpty(jsonStr) ? "" : $"{Environment.NewLine}Request Body: {jsonStr}");
+                    _logger.LogDebug(String.IsNullOrEmpty(jsonStr) ? "" : $"{Environment.NewLine}Response Body: {jsonStr}");
                 }
                 catch
                 {
-                    _logger.LogDebug(String.IsNullOrEmpty(text) ? "" : $"{Environment.NewLine}Request Body: {text}");
+                    _logger.LogDebug(String.IsNullOrEmpty(text) ? "" : $"{Environment.NewLine}Response Body: {text}");
                 }
             }
 

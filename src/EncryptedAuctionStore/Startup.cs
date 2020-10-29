@@ -44,6 +44,7 @@ namespace EncryptedAuctionStore
             services.Configure<KestrelServerOptions>(
                 Configuration.GetSection("Kestrel"));
             services.AddControllers();
+            services.AddSwaggerGen();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -63,6 +64,15 @@ namespace EncryptedAuctionStore
                 var data = File.ReadAllText(seedFile);
                 Seeder.Seedit(reg, data, db);
             }
+
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                c.RoutePrefix = "docs";
+            });
+
             app.UseMiddleware<RequestLoggingMiddleware>();
             //app.UseHttpsRedirection();
 

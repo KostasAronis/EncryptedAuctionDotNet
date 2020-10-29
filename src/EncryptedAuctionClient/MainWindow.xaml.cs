@@ -57,12 +57,15 @@ namespace EncryptedAuctionClient
                 try
                 {
                     var results = await Search(searchQuery, maxResults, minSim);
+                    if (results.Count == 0){
+                        MessageBox.Show("No result was found for your search query, please try again!");
+                        return;
+                    }
                     var searchResultWindow = new SearchResultWindow(searchQuery, results);
                     searchResultWindow.Show();
                 }
                 catch
                 {
-                    //TODO: OBVIOUSLY HANDLE IT
                     throw;
                 }
             }

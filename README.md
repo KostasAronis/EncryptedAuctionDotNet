@@ -29,3 +29,26 @@ Run EncryptedAuctionClient.exe
 
 ## Contributing
 Contributing is not currently possible as this project is meant to be my master's thesis.
+
+
+
+/*
+ * Eisagwgh
+ *1 Thewria lsh
+ *2 to provlhma kai pws to lunw arxitektonika
+ ** diagrama use case + sequence?
+ *3 stoixeia ulopoihshs (upokefalaio ergaleia)
+ ** kapoiou eidous class diagram?
+ *4 paradeigma ekteleshs
+ *5 epilogos mellontikes epektaseis 
+ * 
+ * video => paradeigma
+ * 
+
+TODO:
+* LSH IN DATABASE
+* AUTHENTICATION ETC TO BECOME A REAL APP
+* REVERSE HASHING ON STORE LEVEL TO SEE IF AGGREGATOR CHANGED SOMETHING
+
+
+*/

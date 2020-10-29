@@ -71,7 +71,6 @@ namespace EncryptedAuctionClient
                 }
             }
             var gotOffers = await ApiClient.GetOffers(offersToGet);
-
             OfferList = gotOffers.OrderBy(o => o.EncryptedPrice).ToList();
             OnPropertyChanged(nameof(OfferList));
             OfferListVisibility = Visibility.Visible;

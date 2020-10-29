@@ -41,10 +41,10 @@ namespace EncryptedAuctionAggregator
                         // replace with your Server Version and Type
                         .ServerVersion(new Version(8, 0, 18), ServerType.MySql));
             });
-
             services.Configure<KestrelServerOptions>(
                 Configuration.GetSection("Kestrel"));
             services.AddControllers();
+            services.AddSwaggerGen();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,14 +55,18 @@ namespace EncryptedAuctionAggregator
                 app.UseDeveloperExceptionPage();
             }
             db.Database.EnsureCreated();
-
             var seedFile = "seed.json";
             if (File.Exists(seedFile))
             {
                 var data = File.ReadAllText(seedFile);
                 Seeder.Seedit(data, db);
             }
-
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                c.RoutePrefix = "docs";
+            });
             app.UseMiddleware<RequestLoggingMiddleware>();
             //app.UseHttpsRedirection();
 

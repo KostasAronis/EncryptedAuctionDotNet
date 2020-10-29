@@ -20,14 +20,3 @@ namespace EncryptedAuctionClient
         }
     }
 }
-/*
- *1 Eisagwgh
- *2 Thewria lsh
- *3 to provlhma kai pws to lunw arxitektonika
- *4 stoixeia ulopoihshs (upokefalaio ergaleia)
- *5 paradeigma ekteleshs
- *6 epilogos mellontikes epektaseis 
- * 
- * video => paradeigma
- * 
- */

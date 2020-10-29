@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EncryptedAuctionClient.Lib.ApiClient">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAgAAAAAAQAAAAABAAQggAAAAAAAA=</HashCode>
+      <FileName>Lib\ApiClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EncryptedAuctionClient.OfferViewModel">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAQAAAAAAAAAIAAAAAAAAAAAAgAAAQAAgAAAAAAAA=</HashCode>
+      <FileName>OfferViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EncryptedAuctionClient.ProductViewModel">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAgAAAAAAAAAAAAAAAAAAAQAAgAAQABAAA=</HashCode>
+      <FileName>ProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

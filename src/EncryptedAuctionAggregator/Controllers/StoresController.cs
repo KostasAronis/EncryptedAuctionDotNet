@@ -17,18 +17,11 @@ namespace EncryptedAuctionAggregator.Controllers
     {
         private readonly ILogger<StoresController> _logger;
         private readonly DBContext _db;
-
         public StoresController(ILogger<StoresController> logger, DBContext dbContext)
         {
             _logger = logger;
             _db = dbContext;
         }
-        //[HttpGet]
-        //public IEnumerable<Store> GetStores()
-        //{
-        //    return _db.Stores;
-        //}
-
         [HttpGet("TryRegister/{guid}")]
         public ActionResult<int[][]> TryRegister([FromRoute] Guid guid)
         {

@@ -9,8 +9,6 @@ using System.Diagnostics;
 
 namespace EncryptedAuctionStore.Database
 {
-
-    //TODO: FIX BEFORE MULTIPLE STORES, WILL HELP WITH DEMO SEEDING
     public static class Seeder
     {
         public static void Seedit(Registrator reg, string jsonData, DBContext context)
@@ -34,6 +32,7 @@ namespace EncryptedAuctionStore.Database
                         catch(Exception ex)
                         {
                             Debug.WriteLine(ex.Message);
+                            Task.Delay(5000).Wait();
                         }
                     }
                 }

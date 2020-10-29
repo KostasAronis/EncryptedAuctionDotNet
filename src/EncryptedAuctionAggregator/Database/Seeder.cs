@@ -18,10 +18,10 @@ namespace EncryptedAuctionAggregator.Database
                     LSHHashSeed = LSHDotNet.MinHasher<Guid>.CreateMinHashSeeds(100)
                 });
             }
-            List<Store> products = JsonConvert.DeserializeObject<List<Store>>(jsonData);
+            List<Store> stores = JsonConvert.DeserializeObject<List<Store>>(jsonData);
             if (!context.Stores.Any())
             {
-                context.AddRange(products);
+                context.AddRange(stores);
                 context.SaveChanges();
             }
         }

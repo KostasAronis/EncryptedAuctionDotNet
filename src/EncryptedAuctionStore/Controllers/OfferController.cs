@@ -28,18 +28,8 @@ namespace EncryptedAuctionStore.Controllers
         {
             var ope = new OPE(query.Key);
             var prod = _db.Products.FirstOrDefault(p => p.Id == query.Id);
-            //TODO: IMPLEMENT DECIMAL ENCRYPTION IN OPE!!!
             var encryptedPrice = ope.Encrypt(Convert.ToInt32(Math.Ceiling(prod.Price)));
             return encryptedPrice;
         }
-        //[HttpPost]
-        //public long GetOffers(OfferQuery query)
-        //{
-        //    var ope = new OPE(query.Key);
-        //    var prod = _db.Products.FirstOrDefault(p => p.Id == query.Id);
-        //    //TODO: IMPLEMENT DECIMAL ENCRYPTION IN OPE!!!
-        //    var encryptedPrice = ope.Encrypt(Convert.ToInt32(Math.Ceiling(prod.Price)));
-        //    return encryptedPrice;
-        //}
     }
 }

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EncryptedAuctionAggregator.Controllers.SearchController">
+    <Position X="15.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAAAAgAAAAgAAA=</HashCode>
+      <FileName>Controllers\SearchController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EncryptedAuctionAggregator.Controllers.StoresController">
+    <Position X="15.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAIAABAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\StoresController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EncryptedAuctionAggregator.Database.DBModels.HashedProduct" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.75" Width="1.75" />
+    <InheritanceLine Type="EncryptedAuctionDatatypes.HashedProductBase" FixedFromPoint="true">
+      <Path>
+        <Point X="10.125" Y="3" />
+        <Point X="10.125" Y="2.819" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Database\DBModels\HashedProduct.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="EncryptedAuctionAggregator.Database.DBModels.LSHConfig">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\DBModels\LSHConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EncryptedAuctionAggregator.Database.DBModels.Store">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\DBModels\Store.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="HashedProducts" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EncryptedAuctionAggregator.Database.DBContext">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQAAAAAAAAAAAEAAAAAAQAAAAAQAAAAA=</HashCode>
+      <FileName>Database\DBContext.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LSHConfig" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EncryptedAuctionDatatypes.StoreBase">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EncryptedAuctionDatatypes.HashedProductBase">
+    <Position X="9.25" Y="3" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
